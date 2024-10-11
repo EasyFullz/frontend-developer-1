@@ -1,0 +1,7 @@
+.input-name,
+.input-email,
+.input-password {
+    background-color: transparent;
+    color: var(--very-light-pink);
+    padding-left: 0px;
+}

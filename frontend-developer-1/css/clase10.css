@@ -1,0 +1,6 @@
+.order {
+    grid-template-columns: auto 1fr auto;
+    padding: 0px ;
+    border-radius: 0;
+    background: transparent;
+}
